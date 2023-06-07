@@ -8,7 +8,8 @@ $(document).ready(function (){
     console.log(daysInCurrentMonth); // 👉️ 31
     for (var i = 0; i < daysInCurrentMonth; i++)
     {
-        $(".calendarAbsensi").append("a");
+        $(".calendarAbsensi").append("<div>aa</div>");
+
     }
 
 })
