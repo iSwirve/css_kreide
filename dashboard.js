@@ -33,7 +33,7 @@ function createUser() {
     document.getElementById("dashboardID").style.display = 'none';
     document.getElementById("absenID").style.display = 'none';
     document.getElementById("UserCreationID").style.display = 'block';
-    document.getElementsById("StudentCreationID").style.display = "none";
+    document.getElementById("StudentCreationID").style.display = "none";
 }
 
 function createStudent()
@@ -84,5 +84,4 @@ document.addEventListener("DOMContentLoaded", function(event) {
 
     // Your code to run since DOM is loaded and ready
 });
-
 
