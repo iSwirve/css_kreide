@@ -24,7 +24,7 @@ function absensi() {
     document.getElementById("dashboardID").style.display = 'none';
     document.getElementById("absenID").style.display = 'block';
     document.getElementById("UserCreationID").style.display = 'none';
-    document.getElementByID("StudentCreationID").style.display = "none";
+    document.getElementById("StudentCreationID").style.display = "none";
 }
 
 
