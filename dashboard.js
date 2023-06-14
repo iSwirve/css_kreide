@@ -42,7 +42,7 @@ function createStudent()
     document.getElementById("dashboardID").style.display= 'none';
     document.getElementById("absenID").style.display = 'none';
     document.getElementById("UserCreationID").style.display = 'none';
-    document.getElementByID("StudentCreationID").style.display = 'block';
+    document.getElementById("StudentCreationID").style.display = 'block';
 }
 
 //animation
